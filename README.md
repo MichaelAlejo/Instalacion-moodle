@@ -4,6 +4,7 @@
  
  **a)** Canvia la teva direcció de correu electrònic i també la teva contrasenya per una altra. Afegeix-te a més un avatar. Tot això es pot fer anant al teu perfil (opció que apareix sota el teu nom que es veu a la part superior dreta de la finestra del Moodle) i clicant sobre l'enllaç `Editar` (o també anant a l'opció `Preferències`, situada al mateix lloc).
  ![Captura desde 2025-03-13 10-28-08](https://github.com/user-attachments/assets/35942c71-2fb9-481d-a5a5-0c8b01481ef2)
+
  
   **b)** Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina principal no mostri res pels usuaris que no estiguin autentificats. Això es pot fer anant a l'opció `Administració del lloc > Primera plana > Paràmetres`
   ![Captura desde 2025-03-13 10-38-03](https://github.com/user-attachments/assets/cc8b1a1f-93c2-4458-ae47-53218479411e) ![Captura desde 2025-03-13 10-47-23](https://github.com/user-attachments/assets/cccd25d1-3674-4d03-8c29-bc6ee9a56f73)
@@ -14,6 +15,14 @@
 
    **d)** Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció `Administració del lloc > Idioma > Paràmetres` i tenint en compte tant el checkbox `Detecció automàtica de l'idioma` com el desplegable `Idioma per defecte`.
    ![Captura desde 2025-03-14 14-04-15](https://github.com/user-attachments/assets/f74a68a6-5932-400e-9531-e90d6247a79a)
+  
+   **e)** Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres. Això es pot fer anant a l'opció `Administració del lloc >   Seguretat > Normatives del lloc`.
+   
+   ![Captura desde 2025-03-14 14-09-28](https://github.com/user-attachments/assets/aa1ce9fc-37f8-4043-b37a-3b6767e9608c)
+   
+**2.** Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de `Administració del lloc > Gestiona cursos i categories` o també des del quadre `Navegació` anant a `Cursos > Afegeix curs`
+
+
 
 
 
