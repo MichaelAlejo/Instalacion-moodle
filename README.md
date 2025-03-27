@@ -61,11 +61,8 @@
 
    **c)** Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
 ![Captura desde 2025-03-21 14-14-51](https://github.com/user-attachments/assets/40b601d6-359a-4fa4-8cfe-6f72908f7d4f)
+ ![Captura desde 2025-03-21 14-20-58](https://github.com/user-attachments/assets/5838519a-13e7-4fe1-a857-063507a08963)
 
- 
-
-
-
-
-
+**7.** Assigna un professor i matricula alumnes al curs A.
+![Captura desde 2025-03-27 13-46-50](https://github.com/user-attachments/assets/da847b7f-4174-4098-93fa-b77f786bd861)
 
