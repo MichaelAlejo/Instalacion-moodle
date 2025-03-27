@@ -41,6 +41,10 @@
    **b)** Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a `Administració del lloc > Usuaris > Comptes > Carrega usuaris` i segueix els passos que et marca. 
 ![Captura desde 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4fef6662-e06b-4962-b66c-d05bd6ab52eb) ![Captura desde 2025-03-20 14-12-12](https://github.com/user-attachments/assets/eb147fdb-2f7d-4fa0-b3fa-dd68e1a3038a)
 
+ **c)** Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció `Administració del lloc > Usuaris > Accions amb usuaris en bloc`
+ 
+ ![Captura desde 2025-03-20 14-24-14](https://github.com/user-attachments/assets/932627cb-b21b-4570-93ec-fc22e26b03e7) ![Captura desde 2025-03-20 14-24-53](https://github.com/user-attachments/assets/eb3b100e-b3f1-4cb9-8889-54ec4d091e9d)
+
 
 
 
