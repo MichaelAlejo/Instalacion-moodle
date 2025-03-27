@@ -63,6 +63,9 @@
 ![Captura desde 2025-03-21 14-14-51](https://github.com/user-attachments/assets/40b601d6-359a-4fa4-8cfe-6f72908f7d4f)
  ![Captura desde 2025-03-21 14-20-58](https://github.com/user-attachments/assets/5838519a-13e7-4fe1-a857-063507a08963)
 
+**6.** Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. Això ho pots fer primer anant a `Administració del lloc > Connectors > Instal·lar complement` i després a `Administració del lloc > Aparença > Temes > Selector de temes` Sempre pots fer servir l'enllaç `Canvi de rol` del menú de la dreta per observar com es veuria el lloc sent alumne, professor, etc.
+![Captura desde 2025-03-21 14-19-15](https://github.com/user-attachments/assets/be66ffa0-0e13-4aca-85c9-e115c63a95c8)
+
 **7.** Assigna un professor i matricula alumnes al curs A.
 ![Captura desde 2025-03-27 13-46-50](https://github.com/user-attachments/assets/da847b7f-4174-4098-93fa-b77f786bd861)
 
