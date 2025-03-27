@@ -45,6 +45,13 @@
  
  ![Captura desde 2025-03-20 14-24-14](https://github.com/user-attachments/assets/932627cb-b21b-4570-93ec-fc22e26b03e7) ![Captura desde 2025-03-20 14-24-53](https://github.com/user-attachments/assets/eb3b100e-b3f1-4cb9-8889-54ec4d091e9d)
 
+ **5.** Ara matricula aquests usuaris als diferents cursos.
+  **a)** Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). Tot això ho pots fer des de `Administració del curs > Ususaris > Mètodes d'inscripció`. Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: `Administració de lloc > Connectors > Autenticació > Gestió de l'autenticació`
+
+   **b)** Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a `Administració del curs > Usuaris inscrits > Inscriure`.
+
+   **c)** Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
+
 
 
 
