@@ -22,6 +22,31 @@
    
 **2.** Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de `Administració del lloc > Gestiona cursos i categories` o també des del quadre `Navegació` anant a `Cursos > Afegeix curs`
 
+ **Curso A**
+ 
+ ![Captura desde 2025-03-14 14-13-39](https://github.com/user-attachments/assets/2bea9596-a4f2-433f-9462-cd5b1d704b73) ![Captura desde 2025-03-14 14-13-49](https://github.com/user-attachments/assets/9012e8d3-911e-4a5d-aaed-d7b667a17423)
+
+**Curso B**
+
+![Captura desde 2025-03-14 14-15-21](https://github.com/user-attachments/assets/e250763f-3496-49c6-8efa-830b29e11667) ![Captura desde 2025-03-14 14-25-54](https://github.com/user-attachments/assets/edb38d21-5dd1-47df-af55-aa1c520048ad)
+
+**3.** Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre `Navegació`) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó `Activar edició` en un curs.
+![Captura desde 2025-03-20 13-46-24](https://github.com/user-attachments/assets/eef075af-7670-4f99-b08c-f54af1e5aa2a)
+
+**4.** Creació d’usuaris i alumnes
+   
+   **a)** Crea manualment un usuari anomenat `Bob` que ha de fer servir el `mètode d'autenticació manual`. Això es pot fer des de `Administració del lloc > Usuaris > Comptes > Afegeix un usuari`
+   ![Captura desde 2025-03-20 13-50-38](https://github.com/user-attachments/assets/46f9060c-4a61-4425-9df0-bc099769329c)
+   
+   **b)** Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a `Administració del lloc > Usuaris > Comptes > Carrega usuaris` i segueix els passos que et marca. 
+![Captura desde 2025-03-20 14-11-28](https://github.com/user-attachments/assets/4fef6662-e06b-4962-b66c-d05bd6ab52eb) ![Captura desde 2025-03-20 14-12-12](https://github.com/user-attachments/assets/eb147fdb-2f7d-4fa0-b3fa-dd68e1a3038a)
+
+
+
+
+ 
+
+
 
 
 
