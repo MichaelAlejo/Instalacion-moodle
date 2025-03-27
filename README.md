@@ -22,7 +22,6 @@
    
 **2.** Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes. Tot això ho pots fer des de `Administració del lloc > Gestiona cursos i categories` o també des del quadre `Navegació` anant a `Cursos > Afegeix curs`
 
-
  **Curso A**
  
  ![Captura desde 2025-03-14 14-13-39](https://github.com/user-attachments/assets/2bea9596-a4f2-433f-9462-cd5b1d704b73) ![Captura desde 2025-03-14 14-13-49](https://github.com/user-attachments/assets/9012e8d3-911e-4a5d-aaed-d7b667a17423)
@@ -49,6 +48,7 @@
  **5.** Ara matricula aquests usuaris als diferents cursos.
   
   **a)** Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). Tot això ho pots fer des de `Administració del curs > Ususaris > Mètodes d'inscripció`. Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: `Administració de lloc > Connectors > Autenticació > Gestió de l'autenticació`
+
   **Curso A**![Captura desde 2025-03-21 13-54-49](https://github.com/user-attachments/assets/8d0d13fb-5cb5-48c3-969f-427f86305cf7)
 
   **Curso B**![Captura desde 2025-03-21 13-58-12](https://github.com/user-attachments/assets/1b0277e7-bd10-439d-87e2-d98ba78281f1)
@@ -56,10 +56,11 @@
 
    **b)** Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a `Administració del curs > Usuaris inscrits > Inscriure`.
 
+   ![Captura desde 2025-03-21 14-00-03](https://github.com/user-attachments/assets/2a6ec9a9-47ac-495b-b910-7a6fb1307208)
+
+
    **c)** Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
-
-
-
+![Captura desde 2025-03-21 14-14-51](https://github.com/user-attachments/assets/40b601d6-359a-4fa4-8cfe-6f72908f7d4f)
 
  
 
