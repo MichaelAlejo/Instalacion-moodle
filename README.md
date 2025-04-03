@@ -69,3 +69,117 @@
 **7.** Assigna un professor i matricula alumnes al curs A.
 ![Captura desde 2025-03-27 13-46-50](https://github.com/user-attachments/assets/da847b7f-4174-4098-93fa-b77f786bd861)
 
+**8.** Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
+
+**Tasca**
+
+![Captura desde 2025-03-27 13-55-59](https://github.com/user-attachments/assets/6d303824-af57-439a-9ac5-c4765d402d83)
+
+**Data d'entrega**
+
+![Captura desde 2025-03-27 13-56-14](https://github.com/user-attachments/assets/efbd0498-d4ba-48d3-9603-d75207d13f45)
+
+**Fitxer PDF**
+
+![Captura desde 2025-03-27 13-56-24](https://github.com/user-attachments/assets/54f5724e-3c7f-46f4-b735-a5f69775d4be)
+
+**Tasca completa**
+
+![Captura desde 2025-03-27 13-58-02](https://github.com/user-attachments/assets/043f8072-df61-47be-a560-28683417e516)
+
+**9.** Entra amb un alumne i comprova que pots lliurar la tasca.
+
+![Captura desde 2025-03-27 13-59-14](https://github.com/user-attachments/assets/2add9449-56e6-4883-8040-256f3b3e8e5f)
+
+## Continguts
+En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
+
+Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a `Temes` a `Administració del Curs > Editar Curs > Format del Curs`
+
+Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B `Administració del Curs > Importar` (des del curs B)
+
+**Creacio de UF i NF, amb activitats**
+
+![Captura desde 2025-03-28 14-08-20](https://github.com/user-attachments/assets/0f499bd6-2525-4c4c-95e8-1a586e3019a1)
+
+**Importar el curs A al curs B**
+
+![Captura desde 2025-03-28 14-14-54](https://github.com/user-attachments/assets/2f133bcf-1f46-48db-9e0f-0279251c9973)
+
+![Captura desde 2025-03-28 14-15-12](https://github.com/user-attachments/assets/6f13bb71-9a2c-4faf-b2b4-597b94a01d32)
+
+![Captura desde 2025-03-28 14-15-36](https://github.com/user-attachments/assets/45d56105-e7a8-4acb-bfc5-9ce091afafc4)
+
+**Al curs B**
+
+![Captura desde 2025-03-28 14-16-10](https://github.com/user-attachments/assets/eaa2b626-b94a-4627-af6c-490c40e56e99)
+
+## Qualificació
+En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a `Administració del Curs > Configuració de qualificacions`.
+
+Crea una insignia i atorga-la a aquest alumne des de `Administració del Lloc > Insígnies`
+
+**Entregar les tasques amb un alumne**
+
+![Captura desde 2025-03-28 14-22-15](https://github.com/user-attachments/assets/e9ec1d14-98f4-48eb-be5d-9b58dafcfb38)
+
+![Screenshot 2025-04-02 10 30 41 PM (1)](https://github.com/user-attachments/assets/6f66127a-52b9-4a1a-aa01-301484602c1a)
+
+
+**Calificar-les amb un professor i possar nota automatica de l'UF**
+
+![Screenshot 2025-04-02 10 30 05 PM (1)](https://github.com/user-attachments/assets/9b3d7f5c-a504-414f-99bd-ca54dce41e79)
+
+Amb aquesta formula, la nota de les dues tasques es divideix entre 2 per donar la nota final de l'UF
+![Screenshot 2025-04-02 10 29 43 PM (1)](https://github.com/user-attachments/assets/3e884616-c52a-4781-8dee-f39f180cd0d5)
+
+**Fer una insignia i otorgar-la**
+
+![Screenshot 2025-04-02 10 35 34 PM (1)](https://github.com/user-attachments/assets/7ac61a1a-fc7e-401e-9e81-546504c03de1)
+
+![Screenshot 2025-04-02 10 36 20 PM (1)](https://github.com/user-attachments/assets/5d9e0d19-7c88-4fb2-909b-9256e38ae3c8)
+
+![Screenshot 2025-04-02 10 38 08 PM (1)](https://github.com/user-attachments/assets/831e1ff7-4a09-4b91-ac59-6e81280efd28)
+
+## Qüestionaris
+Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
+
+**Crear categories y afegir preguntes dins d'aquestes categories**
+
+![Screenshot 2025-04-02 11 11 24 PM (1)](https://github.com/user-attachments/assets/37ca0ebe-0c0d-4323-8bb3-1fbc243eae13)
+
+**Categoria facil, amb preguntes**
+
+![facil (2)](https://github.com/user-attachments/assets/be021bee-c494-4ef3-a1bf-dbf902b0a6bd)
+
+
+**Categoria dificil, amb preguntes**
+
+![dificil (1)](https://github.com/user-attachments/assets/2d879d29-2519-409d-8770-0f2f278acd2f)
+
+**Crear qüestionari y afegir preguntes del banc de preguntes**
+
+![Screenshot 2025-04-02 11 17 54 PM (1)](https://github.com/user-attachments/assets/be99c7da-aedf-4e6c-802f-7ea673b2bb40)
+
+![Screenshot 2025-04-02 11 18 02 PM (1)](https://github.com/user-attachments/assets/58e185c9-1f74-4be9-b883-45cc773ae2ee)
+
+**Respon el qüestionari**
+
+![Screenshot 2025-04-02 11 20 56 PM (1)](https://github.com/user-attachments/assets/5106eff1-9e13-4480-90d6-7c865d6b30b3)
+
+**Qualificació amb professor**
+
+![Screenshot 2025-04-02 11 22 08 PM (1)](https://github.com/user-attachments/assets/6e3cc166-e249-49ee-babe-0ed275764ef0)
+
+## Seguretat
+Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
+
+**Bloquear una IP**
+
+![Captura desde 2025-04-03 09-01-51](https://github.com/user-attachments/assets/f7eda5b6-52ba-4c5a-983e-7a1cdc4474ba)
+
+**Nova política de seguretat**
+
+![Captura desde 2025-04-03 09-06-37](https://github.com/user-attachments/assets/170a9422-df71-4716-9c02-fbe69df8dcc1)
+
+He posat aquesta política pel fet de tindre més privacitat dels alumnes, a l'hora de què ningú desconegut pugui veure les fotos dels nostres alumnes.
